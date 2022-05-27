@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gustave_Doré
     - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
+covers:
+- cover_type: archival
+  image_path: 68059-h/images/cover.jpg
 creator:
   author:
     agent_name: Gozlan, Léon
@@ -27,6 +30,8 @@ creator:
     - http://fr.wikipedia.org/wiki/L%C3%A9on_Gozlan
     - http://en.wikipedia.org/wiki/L%C3%A9on_Gozlan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68059#The-man-among-the-monkeys-or-Ninety-days-in-apeland
 gutenberg_issued: '2022-05-13'
 identifiers:
   gutenberg: '68059'
